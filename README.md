@@ -33,7 +33,7 @@ The system uses a graph-based workflow with the following agents:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Garvit1721/BTP
    cd indian-constitution-assistant
    ```
 
