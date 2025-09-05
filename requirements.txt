@@ -1,0 +1,17 @@
+langchain
+langchain-core
+langchain-community
+langchain_groq
+langgraph
+langchain_huggingface
+langchain_core
+sentence-transformers
+chainlit
+chromadb
+openai
+tiktoken
+pydantic
+langchain_chroma
+fastapi
+uvicorn
+pypdf

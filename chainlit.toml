@@ -1,0 +1,4 @@
+[project]
+name = "constitution-assistant"
+
+entrypoint = "app.py"

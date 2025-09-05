@@ -1,0 +1,9 @@
+.venv/
+myenv/
+*.log
+chroma_store/
+__pycache__/
+Agents/__pycache__/
+utils/__pycache__/
+.DS_Store
+Thumbs.db
